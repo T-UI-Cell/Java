@@ -1,2 +1,2 @@
 # Java
-For class work in QA class
+For Git with my java class
